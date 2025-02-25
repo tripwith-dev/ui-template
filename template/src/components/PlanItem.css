@@ -1,0 +1,13 @@
+.plan-item {
+  width: 250px;
+  height: 350px;
+}
+
+.plan-image-container {
+  width: 250px;
+  height: 250px;
+}
+
+.plan-main-image {
+  height: 100%;
+}
