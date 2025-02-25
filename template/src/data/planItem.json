@@ -1,0 +1,72 @@
+[
+  {
+    "createdAt": "2025-02-25T01:54:03.391Z",
+    "updatedAt": "2025-02-25T01:54:03.391Z",
+    "categoryId": 1,
+    "categoryTitle": "2025",
+    "plans": [
+      {
+        "createdAt": "2025-02-25T02:05:27.817Z",
+        "updatedAt": "2025-02-25T02:09:00.000Z",
+        "planId": 1,
+        "planTitle": "세부 어학연수",
+        "planMainImage": "/planImages/default.png",
+        "status": "PUBLIC",
+        "travelStartDate": "20250620",
+        "travelEndDate": "20250628",
+        "likesCount": 0,
+        "totalPrice": "8000000.00",
+        "destinations": [
+          {
+            "destinationTagId": 1,
+            "planId": 1,
+            "destinationTag": {
+              "destinationTagId": 1,
+              "destinationTagName": "프랑스"
+            }
+          },
+          {
+            "destinationTagId": 2,
+            "planId": 1,
+            "destinationTag": {
+              "destinationTagId": 2,
+              "destinationTagName": "스위스"
+            }
+          },
+          {
+            "destinationTagId": 3,
+            "planId": 1,
+            "destinationTag": {
+              "destinationTagId": 3,
+              "destinationTagName": "파리"
+            }
+          },
+          {
+            "destinationTagId": 4,
+            "planId": 1,
+            "destinationTag": {
+              "destinationTagId": 4,
+              "destinationTagName": "인터라켄"
+            }
+          },
+          {
+            "destinationTagId": 5,
+            "planId": 1,
+            "destinationTag": {
+              "destinationTagId": 5,
+              "destinationTagName": "그린델발트"
+            }
+          },
+          {
+            "destinationTagId": 5,
+            "planId": 1,
+            "destinationTag": {
+              "destinationTagId": 5,
+              "destinationTagName": "취리히"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
